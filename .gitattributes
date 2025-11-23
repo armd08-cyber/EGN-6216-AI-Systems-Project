@@ -1,2 +1,20 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+# Large data & model files tracked by Git LFS
+# Edge Impulse / numpy data
+src/data/*.npy filter=lfs diff=lfs merge=lfs -text
+src/data/*.npz filter=lfs diff=lfs merge=lfs -text
+src/data/*.csv filter=lfs diff=lfs merge=lfs -text
+# Models (if you commit them)
+src/models/*.h5 filter=lfs diff=lfs merge=lfs -text
+src/models/*.tflite filter=lfs diff=lfs merge=lfs -text
+# Videos (demo / sample data)
+videos/*.mp4 filter=lfs diff=lfs merge=lfs -text
+videos/*.mov filter=lfs diff=lfs merge=lfs -text
+*.npy filter=lfs diff=lfs merge=lfs -text
+*.npz filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
+*.h5 filter=lfs diff=lfs merge=lfs -text
+*.tflite filter=lfs diff=lfs merge=lfs -text
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+*.mov filter=lfs diff=lfs merge=lfs -text
