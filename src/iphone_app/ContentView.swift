@@ -6,9 +6,9 @@ import UIKit   // <- needed for UIImage
 struct ContentView: View {
 
     // CHANGE this to your Mac's IP if needed
-    let imageUploadURL = URL(string: "http://192.168.86.246:5055/image/upload")!
-    let videoEndURL    = URL(string: "http://192.168.86.246:5055/video/end")!
-    let feedbackURL    = URL(string: "http://192.168.86.246:5055/feedback")!
+    let imageUploadURL = URL(string: "http://xxx.yyy.aa.bbb:5055/image/upload")!
+    let videoEndURL    = URL(string: "http://xxx.yyy.aa.bbb:5055/video/end")!
+    let feedbackURL    = URL(string: "http://yyy.yyy.aa.bbb:5055/feedback")!
 
     @State private var selectedVideoItem: PhotosPickerItem?
     @State private var isProcessing = false

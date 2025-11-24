@@ -28,10 +28,10 @@ unsigned long lastFrameCounterServer = 0;
 unsigned long lastFeedbackId = 0;
 
 /********* WIFI + SERVER CONFIG *********/
-const char* WIFI_SSID     = "GunaWifi";         // <-- update for new location
-const char* WIFI_PASSWORD = "braverock639";    // <-- update if needed
+const char* WIFI_SSID     = "Wifi Name";         // <-- update for new location
+const char* WIFI_PASSWORD = "WifiPassword";    // <-- update if needed
 
-const char* SERVER_HOST       = "192.168.86.246";  // <-- update to Mac's IP
+const char* SERVER_HOST       = "xxx.yyy.aa.bbb";  // <-- update to Mac's IP
 const uint16_t SERVER_PORT    = 5055;
 const char* FEATURES_PATH     = "/features/latest";
 const char* VIDEO_STATUS_PATH = "/video/status";
