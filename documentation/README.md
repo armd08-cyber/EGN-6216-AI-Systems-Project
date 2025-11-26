@@ -270,3 +270,17 @@ Git LFS enabled for large files (videos, models, datasets)
 Meaningful commit messages for traceability
 
 Branching optional due to single-developer workflow
+
+References
+
+[1] A. J. Petway, M. J. Jordan, S. Epsley, and P. Anloague, “Mechanisms of Achilles tendon rupture in National Basketball Association players,” Journal of Applied Biomechanics, vol. 38, no. 6, pp. 398–403, 2022. doi: 10.1123/jab.2022-0088.
+
+[2] B. Marks, “Inside the spike of calf and Achilles injuries across the NBA: Overuse, recovery, and how players heal,” ESPN, Nov. 18, 2024. Accessed: Nov. 2025. Available: https://www.espn.com/nba/story/_/id/45582778/nba-calf-achilles-injuries-overuse-recovery
+
+[3] NBA.com News Staff, “Adam Silver says league researching Achilles tears after historic rise in injuries,” NBA.com, Dec. 3, 2024. Accessed: Nov. 2025. Available: https://www.nba.com/news/nba-commissioner-adam-silver-league-researching-achilles-tears
+
+[4] Edge Impulse Inc., “Edge Impulse: Edge AI platform for embedded machine learning,” EdgeImpulse.com, 2025. Accessed: Nov. 2025. Available: https://www.edgeimpulse.com
+
+[5] Espressif Systems, “ESP32 Series Datasheet,” Espressif Docs, 2024. Available: https://www.espressif.com
+
+[6] Apple Inc., “Core ML and on-device machine learning for iOS,” Apple Developer Documentation, 2025. Available: https://developer.apple.com/machine-learning/
